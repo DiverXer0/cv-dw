@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://diverxer0.github.io//sitemap.xml
+Sitemap: https://diverxer0.github.io/cv-dw//sitemap.xml
